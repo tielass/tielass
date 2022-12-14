@@ -13,9 +13,9 @@
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&Color=c95410)
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=283238)
 
-## <h1 align="center">Contact me <h1>
+<h1 align="center">Contact me <h1>
 
-<a href="mailto:tielass@gmail.com-">
+<a href="mailto:tielass@gmail.com-" align="center">
 <img alt="eMail" src="https://img.shields.io/badge/tielass@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -23,6 +23,4 @@
 ## <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px"> Github stats
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tielass&show_icons=true&locale=en&layout=compact" alt="paulsess" /></p>
-
-
 
