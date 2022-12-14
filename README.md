@@ -17,7 +17,7 @@
 
 ## <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px"> Github stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulsess&show_icons=true&locale=en&layout=compact" alt="paulsess" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tielass&show_icons=true&locale=en&layout=compact" alt="paulsess" /></p>
 
 ## Contact me
 
