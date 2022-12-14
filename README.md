@@ -1,6 +1,11 @@
 # <p align="center">Hi <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="35px">, I'm Misho!</p>
 
-## ⚙️ My skills
+## Contact me
+
+<a href="mailto:tielass@gmail.com-">
+<img alt="eMail" src="https://img.shields.io/badge/tielass@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 
 ## ⚙️ My skills
 
@@ -21,6 +26,4 @@
 
 ## Contact me
 
-<a href="mailto:tielass@gmail.com-">
-<img alt="eMail" src="https://img.shields.io/badge/tielass@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+
