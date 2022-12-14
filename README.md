@@ -1,9 +1,7 @@
 # <p align="center">Hi <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="35px">, I'm Misho!</p>
 
 
-
-
-## ⚙️ My skills
+<h1 align="center"> ⚙️ My skills</h1>
 
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
@@ -15,7 +13,7 @@
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&Color=c95410)
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=283238)
 
-## Contact me
+## <h1 align="center">Contact me <h1>
 
 <a href="mailto:tielass@gmail.com-">
 <img alt="eMail" src="https://img.shields.io/badge/tielass@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
