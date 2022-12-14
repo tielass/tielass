@@ -1,10 +1,6 @@
 # <p align="center">Hi <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="35px">, I'm Misho!</p>
 
-## Contact me
 
-<a href="mailto:tielass@gmail.com-">
-<img alt="eMail" src="https://img.shields.io/badge/tielass@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 
 
 ## ⚙️ My skills
@@ -19,11 +15,16 @@
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&Color=c95410)
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=283238)
 
+## Contact me
+
+<a href="mailto:tielass@gmail.com-">
+<img alt="eMail" src="https://img.shields.io/badge/tielass@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 
 ## <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px"> Github stats
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tielass&show_icons=true&locale=en&layout=compact" alt="paulsess" /></p>
 
-## Contact me
 
 
