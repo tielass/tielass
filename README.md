@@ -28,7 +28,7 @@ I'm currently based in **[Berlin, Germany.](https://www.google.com/maps/place/Be
 <br>
 <br />
 In my free time I love playing video games, drawing and hiking!
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tielass)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tielass&count={count})
 <br />
 <h2>Contact me here:</h2>
 <a align="center" href="mailto:tielass@gmail.com-" >
