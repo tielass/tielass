@@ -10,7 +10,7 @@
 <br />
 <br />
 
-I'm a Full Stack Developer with 2+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
+I'm a Frontend Developer, eager and curious to start developing and implementing applications and solutions using a range of technologies and programming languages.
 <br />
 
 I'm currently based in **[Berlin, Germany.](https://www.google.com/maps/place/Berlin/@52.5068441,13.4247317,10z/data=!3m1!4b1!4m5!3m4!1s0x47a84e373f035901:0x42120465b5e3b70!8m2!3d52.5200066!4d13.404954)**
