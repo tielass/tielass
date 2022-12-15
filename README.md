@@ -14,7 +14,7 @@ I'm a Full Stack Developer with 2+ years of hands-on experience designing, devel
 <br />
 
 I'm currently based in **[Berlin, Germany.](https://www.google.com/maps/place/Berlin/@52.5068441,13.4247317,10z/data=!3m1!4b1!4m5!3m4!1s0x47a84e373f035901:0x42120465b5e3b70!8m2!3d52.5200066!4d13.404954)**
-<h1 align="center"> ⚙️ My skills</h1>
+<h2 align="center"> ⚙️ My skills</h2>
 
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
@@ -28,6 +28,7 @@ I'm currently based in **[Berlin, Germany.](https://www.google.com/maps/place/Be
 <br>
 <br />
 In my free time I love playing video games, drawing and hiking!
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tielass)
 <br />
 <h2>Contact me here:</h2>
 <a align="center" href="mailto:tielass@gmail.com-" >
