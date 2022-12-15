@@ -27,9 +27,8 @@ I'm currently based in **[Berlin, Germany.](https://www.google.com/maps/place/Be
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=283238)
 <br>
 <br />
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tielass&count={1})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tielass)
 <div>
-
 In my free time I love playing video games, drawing and hiking!
 </div>
 <br />
@@ -48,3 +47,4 @@ In my free time I love playing video games, drawing and hiking!
 <br />
 <br />
 </div>
+
