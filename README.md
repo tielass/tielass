@@ -43,6 +43,7 @@ In my free time I love playing video games, drawing and hiking!
 <br />
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tielass&layout=compact&theme=dark&bg_color=0A0A0A" alt="tielass"/>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tielass&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 <br />
 <br />
